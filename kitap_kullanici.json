@@ -1,0 +1,30 @@
+{
+    "kullanicilar": [
+        {
+            "kullanici": "user",
+            "istek_listesi": [
+                "##\n##\n##\n##\n"
+            ],
+            "kitabı": [
+                "##\n"
+            ],
+            "kitap_sayfalari": [
+                "##\n##\n##\n##\n##\n\n"
+            ],
+            "log_kayit": "05/05/2024 - 23:46"
+        },
+        {
+            "kullanici": "user",
+            "istek_listesi": [
+                "##\n##\n##\n##\n"
+            ],
+            "kitabı": [
+                "##\n"
+            ],
+            "kitap_sayfalari": [
+                "##\n##\n##\n##\n##\n\n"
+            ],
+            "log_kayit": "05/05/2024 - 23:47"
+        }
+    ]
+}
